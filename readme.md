@@ -24,3 +24,7 @@ All pod will be disappeared, and then wait 15~20 mins, nodes will be disappeared
 ![](4.png)
 ![](5.png)
 ![](6.png)
+
+```
+  eksctl create cluster -f eks.yaml
+```
